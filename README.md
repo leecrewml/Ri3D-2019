@@ -171,6 +171,6 @@ Teleop state machine
 
 | Name   | Value |
 | ------ | ----- |
-| Top    | 789   |
-| Bottom | 726   |
-| Diff   | 63    |
+| P      | 3     |
+| I      | 0.0001|
+| D      | 0     |
