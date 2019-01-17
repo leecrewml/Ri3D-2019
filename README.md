@@ -1,5 +1,10 @@
 # 2019-Zoukeepers
 
+## States
+Read - Read states are for reading sensor inputs or user control inputs from the joystick.
+Calc - Calc states are for calculating the correct outputs for the actuators of the robot, but does not execute the output.
+Write - Executes the outputs from Calc state to the actuators.
+
 ## Controls
 
 Joysticks used are Logitec 3D Pros
