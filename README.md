@@ -1,4 +1,5 @@
 # 2019-Zoukeepers
+modified by Lansing Robotics
 
 ## States
 Read - Read states are for reading sensor inputs or user control inputs from the joystick.
